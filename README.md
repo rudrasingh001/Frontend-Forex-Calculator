@@ -1,4 +1,5 @@
 <H1>Forex Calculator</H1><br>
+<p>A Forex calculator app built with ReactJS could be a versatile tool for various users interested in foreign exchange.<p><br>
 Hosted Link :- https://candid-rugelach-09bf95.netlify.app/ <br>
 <br>
 
